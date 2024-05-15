@@ -41,6 +41,7 @@
 * [VEJA A DOCUMENTAÇÃO DO "NET/HTTP"](https://pkg.go.dev/net/http)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
-## CREDITOS:
+## CREDITOS E SUBSIDIOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA MAIS PROJETOS DE ROTAS](https://github.com/VILHALVA?tab=repositories&q=+topic%3ASITE+ROTAS+COM&type=&language=&sort=)
 
